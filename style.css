@@ -17,3 +17,7 @@ body {
   color: #f7ff19;
 
 }
+
+ol {
+  display: inline;
+}
