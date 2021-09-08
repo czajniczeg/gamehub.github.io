@@ -1,6 +1,8 @@
 body {
   background-image: url("https://cdn.discordapp.com/attachments/717984769555693599/885169882776354866/szkic_2.jpg");
   background-size: contain;
+  width: 1920px;
+  height: 1080px;
 }
 
 .flappybirdpng {
