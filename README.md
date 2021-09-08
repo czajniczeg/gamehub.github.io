@@ -1,6 +1,6 @@
 # [Strona GameHub](https://czajniczeg.github.io/gamehub.github.io/)
 
-## **Na czym polega strona**
+## **Co znajduje się na stronie**
 Znajdziemy tutaj zbiór 6 retro gier.
 
 ## **W jaki sposób została napisana strona**
