@@ -19,5 +19,5 @@ https://codepen.io/MysticReborn/pen/rygqao
 
 ## **Kto co robił:**
 - Bartłomiej Rogala - pisanie strony głównej
-- Filip Kusyk - Grafika
+- Filip Kusyk - grafika
 - Jakub Mikus - ...
