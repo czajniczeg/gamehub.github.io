@@ -1,10 +1,10 @@
-# [Strona GameHub](https://czajniczeg.github.io/gamehub.github.io/)
+# [Strona GameHub](https://osiol486.github.io/gamehub.github.io/)
 
 ## **Co znajduje się na stronie**
 Znajdziemy tutaj zbiór 6 retro gier.
 
 ## **W jaki sposób została napisana strona**
-Strona główna została napisana normalnie i kod jest w [index.html](https://github.com/czajniczeg/gamehub.github.io/blob/main/index.html). Gry zostały pobrane z internetu.
+Strona główna została napisana normalnie i kod jest w [index.html](https://github.com/osiol486/gamehub.github.io/blob/main/index.html). Gry zostały pobrane z internetu.
 
 ```
 Źródła gier:
